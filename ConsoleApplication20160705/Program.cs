@@ -11,8 +11,6 @@ namespace ConsoleApplication20160705
         static void Main(string[] args)
         {
             Console.WriteLine("CAECE2016");
-            int i = 0;
-            Console.WriteLine((++i).ToString());
         }
     }
 }
